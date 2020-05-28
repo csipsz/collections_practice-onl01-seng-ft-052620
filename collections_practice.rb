@@ -34,8 +34,9 @@ def swap_elements(array)
       binding.pry
       1 
     end 
+    
   end 
-    array
+    
 end 
 
 def reverse_array(array)
