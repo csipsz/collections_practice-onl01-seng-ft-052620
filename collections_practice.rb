@@ -31,6 +31,7 @@ def swap_elements(array)
     if a > b || a == b || a < b 
       1 
     end 
+  end 
     array
 end 
 
