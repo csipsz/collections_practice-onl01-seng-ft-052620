@@ -31,7 +31,6 @@ end
 def swap_elements(array)
   array[1..2].sort do |a, b| 
     if a > b || a == b || a < b 
-      binding.pry
       1 
     end 
     array
