@@ -18,6 +18,7 @@ def sort_array_char_count(array)
   array.sort do |a, b|
     if a.length > b.length 
       1
+    elsif  
     end
   end
 end
