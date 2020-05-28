@@ -20,7 +20,8 @@ def sort_array_char_count(array)
       1
     elsif a.length < b.length
       -1
-    
+    else 
+      0
     end
   end
 end
